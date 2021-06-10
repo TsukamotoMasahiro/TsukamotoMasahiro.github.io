@@ -34,6 +34,9 @@ web開発について勉強中です。
 - [GitHub]
 
 # Contact
+tkmt.masahiro@gmail.com
+
+# History
 学歴、職歴、アルバイト等
 
 -2021年　北海道大学大学院入学
