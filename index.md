@@ -31,7 +31,8 @@ web開発について勉強中です。
 
 # Works
 アピールできる活動内容
-診断ゲームを実装
+
+javascriptを用いて診断ゲームを実装
 - [GitHub](https://github.com/TsukamotoMasahiro/assessment)
 
 # Contact
