@@ -38,6 +38,9 @@ javascriptを用いて診断ゲームを実装
 node.jsを用いてtodoリスト追加削除等
 - [GitHub](https://github.com/TsukamotoMasahiro/todo.nodejs)
 
+node.jsを用いて、適当なファイルからexcelファイルに変換する。(実験用に製作されているため、少し数値が入力されている。）
+- [GitHub](https://github.com/TsukamotoMasahiro/file_trancerate)
+
 # Contact
 tkmt.masahiro@gmail.com
 
